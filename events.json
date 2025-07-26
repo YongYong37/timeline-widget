@@ -2,23 +2,53 @@
     {
         "year": 2022,
         "category": "cyber",
-        "title": "Just Testing",
-        "description": "{placeholder}"
+        "title": "YCEP 2022",
+        "description": "My first cybersecurity workshop and CTF."
     },
     {
         "year": 2022,
         "category": "cyber",
-        "title": "{placeholder}",
+        "title": "YCEP CCTF",
+        "description": "A central CTF for the top 10 performers from each Polytechnic's YCEP."
+    },
+    {
+        "year": 2022,
+        "category": "cyber",
+        "title": "Distinction in Computing",
+        "description": "Graudated secondary school with a distiniction in computing."
+    },
+    {
+        "year": 2023,
+        "category": "cyber",
+        "title": "{placeholder1}",
         "description": "{placeholder}"
     },
     {
         "year": 2023,
         "category": "cyber",
-        "title": "{placeholder}",
+        "title": "{placeholder2}",
         "description": "{placeholder}"
     },
     {
         "year": 2023,
+        "category": "cyber",
+        "title": "{placeholder3}",
+        "description": "{placeholder}"
+    },
+    {
+        "year": 2023,
+        "category": "cyber",
+        "title": "{placeholder4}",
+        "description": "{placeholder}"
+    },
+    {
+        "year": 2024,
+        "category": "cyber",
+        "title": "{placeholder}",
+        "description": "{placeholder}"
+    },
+    {
+        "year": 2024,
         "category": "cyber",
         "title": "{placeholder}",
         "description": "{placeholder}"
