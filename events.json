@@ -20,49 +20,37 @@
     {
         "year": 2023,
         "category": "cyber",
-        "title": "{placeholder1}",
-        "description": "{placeholder}"
+        "title": "Enrolled in cybersecurity diploma",
+        "description": "Started pursing a diploma in cybersecurity and digital forensics at Teamasek Polytechnic."
     },
     {
         "year": 2023,
         "category": "cyber",
-        "title": "{placeholder2}",
-        "description": "{placeholder}"
+        "title": "PolyFinTech100 API Hackathon 2023",
+        "description": "Took part in my first hackathon."
     },
     {
         "year": 2023,
-        "category": "cyber",
-        "title": "{placeholder3}",
-        "description": "{placeholder}"
-    },
-    {
-        "year": 2023,
-        "category": "cyber",
-        "title": "{placeholder4}",
-        "description": "{placeholder}"
+        "category": "others",
+        "title": "NUS Open 2023",
+        "description": "Represented Teamasek Polytechnic in waterpolo."
     },
     {
         "year": 2024,
         "category": "cyber",
-        "title": "{placeholder}",
-        "description": "{placeholder}"
+        "title": "AY23/24 Director's List",
+        "description": "Awarded to the top 10% of students in the diploma"
+    },
+    {
+        "year": 2024,
+        "category": "others",
+        "title": "NUS Open 2024",
+        "description": "Represented Teamasek Polytechnic in waterpolo and secured first place."
     },
     {
         "year": 2024,
         "category": "cyber",
-        "title": "{placeholder}",
-        "description": "{placeholder}"
-    },
-    {
-        "year": 2024,
-        "category": "cyber",
-        "title": "{placeholder}",
-        "description": "{placeholder}"
-    },
-    {
-        "year": 2024,
-        "category": "cyber",
-        "title": "{placeholder}",
-        "description": "{placeholder}"
+        "title": "Certified Ethical Hacker",
+        "description": "Passed the Certified Ethical Hacker (CEH) exam."
     }
 ]

@@ -39,7 +39,7 @@ function buildSlides() {
 
     events.forEach((event, index) => {
       const div = document.createElement('div');
-      div.className = `event ${pos++ % 2 === 0 ? 'left' : 'right'}`;
+      div.className = `event ${pos++ % 2 === 0 ? 'left' : 'right'} category-${event.category}`;
       div.innerHTML = `<h4>${event.title}</h4><p>${event.description}</p>`;
 
       if (index >= 3) {
