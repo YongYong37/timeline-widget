@@ -6,6 +6,9 @@ fetch('events.json?v=' + Date.now())
   .then(data => {
     eventsData = data;
     buildSlides();
+    
+    currentSlide = document.querySelectorAll('.year-slide').length - 1;
+    updateCarousel();
   });
 
 document.getElementById('cyberFilter').addEventListener('change', buildSlides);

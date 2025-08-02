@@ -3,7 +3,7 @@
         "year": 2022,
         "category": "cyber",
         "title": "YCEP 2022",
-        "description": "My first cybersecurity workshop and CTF."
+        "description": "Attended my first cybersecurity workshop and CTF."
     },
     {
         "year": 2022,
@@ -15,42 +15,60 @@
         "year": 2022,
         "category": "cyber",
         "title": "Distinction in Computing",
-        "description": "Graudated secondary school with a distiniction in computing."
+        "description": "Graduated from secondary school with a distinction in Computing."
     },
     {
         "year": 2023,
         "category": "cyber",
-        "title": "Enrolled in cybersecurity diploma",
-        "description": "Started pursing a diploma in cybersecurity and digital forensics at Teamasek Polytechnic."
+        "title": "Enrolled in Cybersecurity Diploma",
+        "description": "Started pursuing a diploma in Cybersecurity and Digital Forensics at Temasek Polytechnic."
     },
     {
         "year": 2023,
         "category": "cyber",
         "title": "PolyFinTech100 API Hackathon 2023",
-        "description": "Took part in my first hackathon."
+        "description": "Participated in my first hackathon."
     },
     {
         "year": 2023,
         "category": "others",
         "title": "NUS Open 2023",
-        "description": "Represented Teamasek Polytechnic in waterpolo."
+        "description": "Represented Temasek Polytechnic in water polo."
     },
     {
         "year": 2024,
         "category": "cyber",
         "title": "AY23/24 Director's List",
-        "description": "Awarded to the top 10% of students in the diploma"
+        "description": "Awarded to the top 10% of students in the diploma program."
     },
     {
         "year": 2024,
         "category": "others",
         "title": "NUS Open 2024",
-        "description": "Represented Teamasek Polytechnic in waterpolo and secured first place."
+        "description": "Represented Temasek Polytechnic in water polo and secured first place."
     },
     {
         "year": 2024,
         "category": "cyber",
         "title": "Certified Ethical Hacker",
         "description": "Passed the Certified Ethical Hacker (CEH) exam."
+    },
+    {
+        "year": 2025,
+        "category": "cyber",
+        "title": "WorldSkills Singapore",
+        "description": "Represented Temasek Polytechnic in the WorldSkills Singapore competition under the IT Network Systems Administration category."
+    },
+    {
+        "year": 2025,
+        "category": "cyber",
+        "title": "DIS Cyber Specialist",
+        "description": "Awarded a sponsorship under the DIS Poly Work-Learn Programme."
+    },
+    {
+        "year": 2025,
+        "category": "cyber",
+        "title": "{Place Holder}",
+        "description": "The year is not over yet."
     }
 ]
